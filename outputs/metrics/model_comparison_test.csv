@@ -1,0 +1,6 @@
+Model,Test macro-F1,Test accuracy,Test balanced accuracy,Train macro-F1,Recall: None,Recall: Heat,Recall: Power,Recall: Overstrain,Recall: Tool wear,Recall: Random
+"Always ""No Failure""",0.164,0.965,0.167,,,,,,,
+Decision tree (raw),0.549,0.975,0.545,1.0,0.987,0.912,0.75,0.478,0.143,0.0
+"Random forest, default (raw)",0.521,0.98,0.485,1.0,0.997,0.706,0.643,0.565,0.0,0.0
+"Random forest, tuned (raw)",0.555,0.959,0.61,0.846,0.968,0.794,0.786,0.826,0.286,0.0
+"Random forest, tuned (+ physics features)",0.647,0.992,0.661,1.0,0.998,0.971,1.0,1.0,0.0,0.0

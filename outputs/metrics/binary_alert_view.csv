@@ -1,0 +1,4 @@
+,Failures caught (recall),Alert precision,False alarms,Missed failures
+Default RF (raw),0.5576923076923077,0.8529411764705882,10.0,46.0
+Tuned RF (raw),0.7211538461538461,0.4491017964071856,92.0,29.0
+Tuned RF (+ physics),0.8269230769230769,0.945054945054945,5.0,18.0
