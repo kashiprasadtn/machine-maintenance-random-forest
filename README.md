@@ -71,7 +71,7 @@ Run all cells (about 3 minutes on 2 CPU cores). `random_state = 42` is used thro
 
 - **Dataset:** *AI4I 2020 Predictive Maintenance Dataset*, S. Matzka (2020), UCI Machine Learning Repository (CC BY 4.0). Supplied through upGrad coursework.
 - The analysis is my own implementation and extends an upGrad multiclass random forest demo, which is not reproduced here.
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
